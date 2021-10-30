@@ -1,1 +1,1 @@
-# NGS
+# WGS and Exome data analysis protocol.
